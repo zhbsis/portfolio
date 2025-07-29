@@ -1,0 +1,32 @@
+v 3.0.0
+d 'PORTFOLIO' module to perform the portfolio analysis widely used in empirical asset pricing studies.
+d
+d portfolio conducts the portfolio analysis widely used in empirical asset pricing studies.
+d This package allows investors to construct portfolios of interest based on a core variable and hold them for different durations.
+d portfolio reports the portfolio's equal- (value-) weighted (alpha) returns and tests the significance of a long-short strategy.
+d portfolio allows one to use either a univariate portfolio test or a bivariate portfolio test, 
+d where the bivariate test methods can be either independent or dependent. 
+d portfolio also provides Newey-West standard error adjustment option, 
+d allowing users to alleviate the impact of potential autocorrelation and heteroskedasticity in the return series.
+d portfolio is built on the work of many Stata community contributors, 
+d including Dr. Attaullah Shah, Mauricio Caceres Bravo, and Matthieu Gomez. We are very grateful for their work.
+d
+d KW: portfolio analysis
+d KW: univariate and bivariate sorts
+d KW: long-short strategy
+d
+d Requires: Stata version 14.1
+d
+d Distribution-Date: 20230320
+d
+d Author: Hongbing Zhu, Business School, Hohai University, China; Lihua Yang, Business School, Hohai University, China;
+d Support: email zhuhongbing@hhu.edu.cn
+d
+d
+f portfolio.ado
+f portfolio.sthlp
+f lportfolio_mlib.mlib
+d
+d
+
+

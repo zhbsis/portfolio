@@ -1,0 +1,9 @@
+v 3.0.0
+d Materials by Hongbing Zhu
+d Business School, Hohai University, China
+d zhuhong_bing@163.com
+d https://github.com/zhbsis
+
+d 'portfolio': conducts the portfolio analysis widely used in empirical asset pricing studies.
+
+p portfolio
